@@ -1,0 +1,92 @@
+.sub {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999999;
+}
+.bod {
+	font-family: "MS Sans Serif";
+	font-size: 10px;
+	color: #666666;
+}
+.sub2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999999;
+}
+A {     
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+        Color : #999999; font-weight: bold;
+	text-decoration : none;
+}
+A:hover { 
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	Color : #999999; font-weight: bold;
+	text-decoration : none;
+}.bodwh {
+	font-family: "MS Sans Serif";
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.sub3 {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #527C23;
+}
+.title {
+	font-family: Tahoma;
+	font-size: 24px;
+	font-style: normal;
+	color: #FF6600;
+	font-weight: bold;
+
+}
+.title2 {
+	color: #FF0000;
+	font-family: Tahoma;
+	font-size: 32px;
+	font-weight: normal;
+}
+.sub4 {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #CC3300;
+}
+.sub5 {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #CE7B00;
+}
+.title3 {
+	font-family: Garamond;
+	font-size: 24px;
+	font-weight: normal;
+	color: #333333;
+	font-style: italic;
+
+}
+.title4 {
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: bold;
+	color: #416a2f;
+}
+.nav {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+}
+a.nav:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
